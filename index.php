@@ -1,2 +1,3 @@
 <?php
-echo 'GITHUB!';
+$test = 'hello world'
+echo $test;
