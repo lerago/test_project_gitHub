@@ -1,3 +1,3 @@
 <?php
-$test = 'hello world'
-echo $test;
+$test2 = 'hello world22';
+echo $test2;
