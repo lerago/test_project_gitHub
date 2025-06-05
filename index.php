@@ -1,2 +1,4 @@
 <?php
-echo 'GITHUB!';
+$test = 'hello world!';
+$name = 'Alena';
+echo $test . ' ' . $name;
