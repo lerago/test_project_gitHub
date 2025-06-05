@@ -1,2 +1,3 @@
 <?php
-echo 'GITHUB!';
+$name = 'Lera';
+echo 'GITHUB!' . $name;
